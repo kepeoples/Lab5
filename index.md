@@ -1,4 +1,4 @@
-
+# Lab Report5
 ## Title: Debugging Scenario - Conversation on EdStem  
 
 *Embarking on this debugging journey, I initiated a conversation on EdStem to address an unexpected behavior encountered while executing my Java program.  
