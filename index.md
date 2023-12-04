@@ -19,13 +19,13 @@ Hello there,
 I appreciate you getting in touch. Could you try executing the following command and report back to me with your findings?  
 ```./run.sh```    
 
-
+---
 *STUDENT:*    
 Title: Debugging Scenario      
 Body:  
- ![Image2](TACommand.png)         
+![Image2](TACommand.png)         
 Hey, I tried the command and this was my outcome. 
-
+---
 
 
 *TA:*    
