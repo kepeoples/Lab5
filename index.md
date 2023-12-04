@@ -60,7 +60,7 @@ Following is the result
 ![Image3](BugFixed.png)  
 
 
-
+---
 **FIle And Directory Structure**
 ```project/
 ├── MainClass.java
