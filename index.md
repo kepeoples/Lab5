@@ -9,7 +9,8 @@ Title: Debugging Scenario
 Body:  
 Hi everyone,      
 I'm having trouble running my Java program. I'm trying to run the Main class, but I keep getting the following error message:      
-I think the issue might be with the input file, but I'm not sure. Can anyone help me out?      
+I think the issue might be with the input file, but I'm not sure. Can anyone help me out? 
+![Image1](Error.png)     
 
 *TA:*    
 Title: Debugging Scenario    
@@ -22,7 +23,8 @@ I appreciate you getting in touch. Could you try executing the following command
 *STUDENT:*    
 Title: Debugging Scenario      
 Body:    
-Hey, I tried the command and this was my outcome:    
+Hey, I tried the command and this was my outcome:   
+![Image2](TACommand.png) 
 
 
 *TA:*    
@@ -73,6 +75,7 @@ Also, please let me know if your code works.
 STUDENT:
 Hi, My code is working now.
 Following is the result  
+![Image3](BugFixed.png)  
 
 
 
