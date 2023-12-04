@@ -68,8 +68,8 @@ Following is the result
 └── run.sh
 ```
 
-**Content of Each File before fixing the bug**
-1)
+**Content of Each File before fixing the bug**  
+1) Main.java file  
 ```
 import java.io.File;
 import java.io.FileNotFoundException;
