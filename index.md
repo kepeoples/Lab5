@@ -19,13 +19,13 @@ Hello there,
 I appreciate you getting in touch. Could you try executing the following command and report back to me with your findings?  
 ```./run.sh```    
 
----
+
 *STUDENT:*    
 Title: Debugging Scenario      
 Body:  
 ![Image2](TACommand.png)         
 Hey, I tried the command and this was my outcome. 
----
+
 
 
 *TA:*    
@@ -34,7 +34,7 @@ Body:
 Hi,    
 So, this result reveals that the issue is a FileNotFoundException of the input.txt file.     
 The error message FileNotFoundException is thrown when the named file does not exist, the pathname is incorrect, the pathname contains non-printing characters, the pathname is relative and does not resolve correctly relative to the actual current directory of the running application, the path to the file is broken, or the named file is actually a directory.     
-For further information, can you please send me your code.    
+For further information, please attach a screenshot of your code.    
 
 
 Student:  
@@ -42,26 +42,8 @@ Title: Debugging Scenario
 Body:    
 Hi, Thank you very much for the information.     
 Also, following is my code:      
-```import java.io.File;  
-import java.io.FileNotFoundException;  
-import java.util.Scanner;  
+![Image](Code.png)
 
-public class Main{
-    public static void main(String[] args) {
-        String fileName = "input.txt";
-        File file = new File(fileName);
-        Scanner scanner;
-        try {
-            scanner = new Scanner(file);
-            while (scanner.hasNextLine()) {
-                String line = scanner.nextLine();
-                System.out.println(line);
-            }
-            scanner.close();
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
-        }}} 
-```  
 
 TA:  
 In your original code on line6, instead of the fileName  
