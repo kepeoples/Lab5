@@ -23,8 +23,8 @@ I appreciate you getting in touch. Could you try executing the following command
 *STUDENT:*    
 Title: Debugging Scenario      
 Body:    
-Hey, I tried the command and this was my outcome:   
-![Image2](TACommand.png) 
+Hey, I tried the command and this was my outcome:   ![Image2](TACommand.png)   
+
 
 
 *TA:*    
@@ -40,8 +40,7 @@ Student:
 Title: Debugging Scenario    
 Body:    
 Hi, Thank you very much for the information.     
-Also, following is my code:    
-
+Also, following is my code:      
 ```import java.io.File;  
 import java.io.FileNotFoundException;  
 import java.util.Scanner;  
